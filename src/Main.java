@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		int menorI, menorJ, maiorI = 0, maiorJ = 0;
+		int menorI, menorJ, maiorI, maiorJ;
 		int contaJ;
 		int primeiroPixel;
 		boolean pixelPreto, acheiPonto;
