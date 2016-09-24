@@ -6,9 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		int menorI, menorJ, maiorI, maiorJ;
-		int contaJ;
-		int primeiroPixel;
+		int menorI, menorJ, maiorI, maiorJ, contaJ, primeiroPixel;
 		boolean pixelPreto, acheiPonto;
 		
 		int[][] matriz = {{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
